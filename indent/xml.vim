@@ -1,1 +1,1 @@
-so indent/lua.vim
+ru indent/lua.vim
