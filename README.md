@@ -6,5 +6,6 @@ If you use [vim-plug](https://github.com/junegunn/vim-plug), you can install by 
 ```vim
 Plug 'XeroOl/xml-lua.vim'
 ```
+Or similar for other plugin managers.
 Otherwise, just add the `syntax/xml.vim` file into your vim's `syntax` folder.
 
