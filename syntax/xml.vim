@@ -352,6 +352,9 @@ hi def link xmlDocTypeDecl	Function
 hi def link xmlDocTypeKeyword	Statement
 hi def link xmlInlineDTD	Function
 
+hi def link luaError NONE
+hi def link luaParenError NONE
+
 let b:current_syntax = "xml"
 
 let &cpo = s:xml_cpo_save
